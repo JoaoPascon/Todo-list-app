@@ -1,0 +1,1 @@
+Aplicação para aplicação de conhecimentos de React e Redux.
